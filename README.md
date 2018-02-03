@@ -1,4 +1,3 @@
-
 # My New Year's Resolution App
 
 This is the first of a week-long series that will help you build your first Glitch app in 2018 - an app where you can keep your friends, family, and audience up to date on whether or not you're achieving your New Year's Resolution goals. Not doing New Years resolutions? Choose any yes or no status, like "Is it too cold for Jenn to drink iced almond milk lattes?" 
@@ -127,8 +126,3 @@ This is the home page of our app and it's written entirely in HTML. Keep it upda
 ### ← about.html
 
 This is another HTML page that we link to in `index.html`. In it, talk about what your resolution is and anything else that you want your audience to know about you and your goals this year!
-=======
-# Learn-To-Code-WorkShop
-HTML and CSS Exercises from Learn to Code Workshop in CodeUp San Antonio on 02/03/2018.
-Used https://glitch.com for practice.
-
